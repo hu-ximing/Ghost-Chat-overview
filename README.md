@@ -8,28 +8,6 @@
 | Frontend interaction | Jiacheng Li  | Vue, TypeScript, JavaScript, html  |         | https://github.com/LJC0414/GhostChat     |
 | Frontend design      | August Zheng | html, css                          |         | https://github.com/Zheng-August/html     |
 
-## Screenshots
-
-### Frontend
-
-Login page
-
-![Login page screenshot](./images/frontend/login.png)
-
-Chat page
-
-![Chat page screenshot](./images/frontend/chat.png)
-
-### Backend
-
-API documentation (OpenAPI generated)
-
-![OpenAPI documentation screenshot](./images/backend/api.png)
-
-IDE
-
-![IDE screenshot](./images/backend/ide.png)
-
 ## Inspiration
 
 123
@@ -47,6 +25,7 @@ IDE
   Clear authentication status and show the login page again.
 
 * Main page
+  
   主界面，用户登陆后展示
   
   - 好友列表
@@ -135,3 +114,25 @@ Beside the technologies listed in the table above, we learned to use git to mana
 - Sending pictures and files
 
 - End-to-end encryption using asymmetric key pairs
+
+## Screenshots
+
+### Frontend
+
+Login page
+
+![Login page screenshot](./images/frontend/login.png)
+
+Chat page
+
+![Chat page screenshot](./images/frontend/chat.png)
+
+### Backend
+
+API documentation (OpenAPI generated)
+
+![OpenAPI documentation screenshot](./images/backend/api.png)
+
+IDE
+
+![IDE screenshot](./images/backend/ide.png)
