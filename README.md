@@ -1,4 +1,4 @@
-# Ghost chat
+# Ghost Chat
 
 ## Components
 
@@ -58,9 +58,11 @@
 
 ## How we built it
 
-### Frontend
+### Building web page
 
 ```shell
+git clone https://github.com/LJC0414/GhostChat.git
+cd GhostChat/
 # resolve dependencies
 npm install
 # start the live server
@@ -69,7 +71,7 @@ npm run dev
 npm run build
 ```
 
-### Backend
+### Building backend service
 
 Run the application
 
