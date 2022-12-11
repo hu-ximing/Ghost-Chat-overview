@@ -1,5 +1,7 @@
 # Ghost Chat
 
+A homemade chat application created by high school students.
+
 ## Components
 
 | Component                                                    | Developer    | Technologies                                       | License |
