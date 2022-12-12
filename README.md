@@ -16,7 +16,7 @@ Ghost Chat installation script can be found [here](https://github.com/hu-ximing/
 
 ## Inspiration
 
-1. To make a free chat software that respects user's freedom to inspect and modify the source code.
+1. To make a chat software that respects user's freedom to inspect and modify the source code.
 
 2. To learn and apply programming knowledge.
 
@@ -41,11 +41,11 @@ Ghost Chat installation script can be found [here](https://github.com/hu-ximing/
   The main page is shown after the user has logged in.
   
   - Friend list
-
+    
     Display a list of friends. The list is displayed in order: the closer the interaction time is, the higher the friend will be displayed in the list. When clicking an entry, initiate a dialog with that friend.
   
   - Dialog box
-
+    
     Used to display the message history. Messages are listed as message boxes comprised of their content and timestamp. User can enter text in the input field at the bottom. Click the send button to send message.
 
 - Messaging
@@ -56,7 +56,7 @@ Ghost Chat installation script can be found [here](https://github.com/hu-ximing/
 
 - Searching users
   
-  Search for unknown users by id or username and list the search results.
+  Search for unknown users by id, username or display name and list the search results. Supports regular expression for searching by display name.
   
   Click on the search result to show the summaries of that user.
   
