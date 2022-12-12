@@ -54,6 +54,14 @@ Ghost Chat installation script can be found [here](https://github.com/hu-ximing/
   
   If A send a message to B while B is not in the dialog with A, the message is considered unread. In B's friend list, the entry of friend A displays a badge, representing the number of unread messages;
 
+- Searching users
+  
+  Search for unknown users by id or username and list the search results.
+  
+  Click on the search result to show the summaries of that user.
+  
+  Click on "Add friend" to send that user a  friend request.
+
 - Friend requests
   
   Users can send friend requests to other users. A friend request includes the friend user id and sender's self introduction.
@@ -100,14 +108,6 @@ Beside the technologies listed in the table above, we learned to use git to mana
 
 ## What's next for Ghost Chat
 
-- Searching users
-  
-  Search for unknown users by id or username and list the search results.
-  
-  Click on the search result to show the summaries of that user.
-  
-  Click on "Add friend" to send that user a  friend request.
-
 - Group chat
   
   Groups are displayed in the friends list in the same way as users, but the name shows the group name.
@@ -126,16 +126,16 @@ Beside the technologies listed in the table above, we learned to use git to mana
 
 Login page
 
-![Login page screenshot](./images/frontend/login.png)
+![Login page screenshot](./images/login.png)
 
 Chat page
 
-![Chat page screenshot](./images/frontend/chat.png)
+![Chat page screenshot](./images/chat.png)
 
 API documentation (OpenAPI generated)
 
-![OpenAPI documentation screenshot](./images/backend/api.png)
+![OpenAPI documentation screenshot](./images/api.png)
 
 IDE
 
-![IDE screenshot](./images/backend/ide.png)
+![IDE screenshot](./images/ide.png)
